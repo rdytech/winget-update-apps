@@ -1,4 +1,3 @@
-Google.Chrome
 Microsoft.Edge
 Microsoft.EdgeWebView2Runtime
 Microsoft.Office
