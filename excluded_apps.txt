@@ -1,3 +1,4 @@
+Google.Chrome
 Microsoft.Edge
 Microsoft.EdgeWebView2Runtime
 Microsoft.Office
@@ -6,5 +7,3 @@ Microsoft.Teams
 Mozilla.Firefox
 Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.ESR
-TeamViewer.TeamViewer
-TeamViewer.TeamViewer.Host
