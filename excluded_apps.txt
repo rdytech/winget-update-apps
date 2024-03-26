@@ -8,3 +8,4 @@ Mozilla.Firefox
 Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.ESR
 GoLang.Go
+Devolutions.RemoteDesktopManager
