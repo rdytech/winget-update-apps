@@ -9,3 +9,4 @@ Mozilla.Firefox.DeveloperEdition
 Mozilla.Firefox.ESR
 GoLang.Go
 Devolutions.RemoteDesktopManager
+Docker.DockerDesktop
