@@ -10,3 +10,4 @@ Mozilla.Firefox.ESR
 GoLang.Go
 Devolutions.RemoteDesktopManager
 Docker.DockerDesktop
+Fortinet.FortiClientVPN
