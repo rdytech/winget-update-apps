@@ -11,3 +11,4 @@ GoLang.Go
 Devolutions.RemoteDesktopManager
 Docker.DockerDesktop
 Fortinet.FortiClientVPN
+FirebirdProject.Firebird.3
