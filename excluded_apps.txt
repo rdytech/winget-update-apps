@@ -12,5 +12,6 @@ Devolutions.RemoteDesktopManager
 Docker.DockerDesktop
 Fortinet.FortiClientVPN
 FirebirdProject.Firebird.3
+OpenJS.NodeJS.LTS
 OpenJS.NodeJS
 Node.js
