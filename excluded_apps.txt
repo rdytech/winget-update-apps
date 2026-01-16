@@ -15,3 +15,4 @@ FirebirdProject.Firebird.3
 OpenJS.NodeJS.LTS
 OpenJS.NodeJS
 Node.js
+GnuPG.Gpg4win
