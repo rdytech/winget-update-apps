@@ -16,3 +16,4 @@ OpenJS.NodeJS.LTS
 OpenJS.NodeJS
 Node.js
 GnuPG.Gpg4win
+Amazon.AWSCLI
