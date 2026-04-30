@@ -17,3 +17,4 @@ OpenJS.NodeJS
 Node.js
 GnuPG.Gpg4win
 Amazon.AWSCLI
+Araxis.Merge
